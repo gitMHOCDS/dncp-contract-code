@@ -6,6 +6,6 @@
     "en": "A Code that links a contract in Hacienda with a contract in DNCP"
   },
   "documentationUrl": {
-    "en": "http://httpbin.org/anything/path/to/documentation/in/specified/language"
+    "en": "https://github.com/gitMHOCDS/dncp-contract-code"
   }
 }
